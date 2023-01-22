@@ -1,2 +1,2 @@
 # Discord-Token-Filter
-Simple discord token filter
+Simple discord token formatter
